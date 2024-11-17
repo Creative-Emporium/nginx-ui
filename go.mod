@@ -1,6 +1,6 @@
 module github.com/0xJacky/Nginx-UI
 
-go 1.23.2
+go 1.23.3
 
 require (
 	github.com/0xJacky/pofile v0.2.1
@@ -16,7 +16,7 @@ require (
 	github.com/gin-gonic/gin v1.10.0
 	github.com/go-acme/lego/v4 v4.20.2
 	github.com/go-co-op/gocron/v2 v2.12.3
-	github.com/go-playground/validator/v10 v10.22.1
+	github.com/go-playground/validator/v10 v10.23.0
 	github.com/go-resty/resty/v2 v2.16.0
 	github.com/go-webauthn/webauthn v0.11.2
 	github.com/golang-jwt/jwt/v5 v5.2.1
